@@ -6,7 +6,7 @@ tags: []
 
 # DSC8307 Assignment 1 - Data Mining, Modeling and Analytics
 
-Two independent, self-contained Jupyter notebooks for the Advent 2026 assignment.
+First Assignment on Data Mining, Modelling and Analytics.
 
 ## Contents
 
